@@ -1,4 +1,4 @@
-// This repository contains project 2 for CS 470 for Spring 2018.
+// This repository contains project 4 for CS 470 for Spring 2018.
 
 The purpose of this project is to gain an appreciation of the work involved in managing virtual memory, and to compare different page replacement policies for virtual memory management.
 
